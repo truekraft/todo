@@ -20,3 +20,9 @@ npm --version
 ```
 npx create-react-app todo
 ```
+
+### Run the app locally
+
+```
+npm start
+```
